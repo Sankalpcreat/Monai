@@ -1,0 +1,8 @@
+monai[fire]
+streamlit
+langchain
+langchain-ollama
+pinecone-client
+python-dotenv
+requests
+torch
